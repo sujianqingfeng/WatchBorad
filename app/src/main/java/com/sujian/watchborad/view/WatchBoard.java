@@ -96,7 +96,7 @@ public class WatchBoard extends View {
         paintCircle(canvas);
         paintScale(canvas);
         paintPointer(canvas);
-        canvas.restore();
+        //canvas.restore();
         postInvalidateDelayed(1000);
     }
 
