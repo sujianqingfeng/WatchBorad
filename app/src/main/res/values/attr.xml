@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="WatchBoard">
+    <attr name="wb_padding" format="dimension"/>
+    <attr name="wb_text_size" format="dimension"/>
+    <attr name="wb_hour_point_width" format="dimension"/>
+    <attr name="wb_minute_point_width" format="dimension"/>
+    <attr name="wb_second_point_width" format="dimension"/>
+    <attr name="wb_point_corner_radius" format="dimension"/>
+    <attr name="wb_point_end_length" format="dimension"/>
+    <attr name="wb_scale_long_color" format="color"/>
+    <attr name="wb_scale_short_color" format="color"/>
+    <attr name="wb_hour_point_color" format="color"/>
+    <attr name="wb_minute_point_color" format="color"/>
+    <attr name="wb_second_point_color" format="color"/>
+</declare-styleable>
+</resources>
